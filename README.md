@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @billygrahamram
-- 👀 I’m interested in image processing, software development and remote & proximal sensing.
+- 👀 I’m interested in image processing, software development, remote & proximal sensing.
 - 🌱 I’m currently learning python and matlab.
 - 💞️ I’m looking to collaborate on hyperspectral imaging.
 - 📫  you can reach me on twitter @billygrahamram
